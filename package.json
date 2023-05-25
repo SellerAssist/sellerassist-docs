@@ -1,0 +1,32 @@
+{
+  "name": "sellerassist-docs",
+  "version": "0.0.0",
+  "description": "SellerAssist Docs",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SellerAssist/sellerassist-docs.git"
+  },
+  "author": "SellerAssist",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SellerAssist/sellerassist-docs/issues"
+  },
+  "homepage": "https://github.com/SellerAssist/sellerassist-docs#readme",
+  "dependencies": {
+    "next": "^13.0.6",
+    "nextra": "^2.4.2",
+    "nextra-theme-docs": "^2.4.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "swr": "^2.1.5"
+  },
+  "devDependencies": {
+    "@types/node": "^18.16.1",
+    "typescript": "^5.0.4"
+  }
+}

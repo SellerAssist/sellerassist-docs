@@ -1,1 +1,1 @@
-# sellerassist-docs
+# SellerAssist Docs
