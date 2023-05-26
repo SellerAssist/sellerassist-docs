@@ -13,7 +13,7 @@ const config: DocsThemeConfig = {
   },
   useNextSeoProps() {
     return {
-      titleTemplate: '%s - SellerAssist',
+      titleTemplate: '%s - SellerAssist Docs',
     };
   },
   head: (
